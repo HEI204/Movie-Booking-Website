@@ -5,9 +5,10 @@ It is my coursework for CS2204 - Fundamentals of Internet Applications Developme
 
 ## Introduction
 
-### Design:
-![sketchdiagram](https://user-images.githubusercontent.com/78290169/168427700-e6c7b3b0-cfa5-471f-9c0c-6592e069da66.png)
-
+### Design (details state in the Design.html):
+- Header
+- Main content
+- Footer
 
 ### Webpage 
 - index page: <br>
