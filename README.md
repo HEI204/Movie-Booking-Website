@@ -1,7 +1,7 @@
 # Movie-Booking-Website
 
 #### Description:
-It is my coursework for CS2204 - Fundamentals of Internet Applications Development which only allow to use HTML, CSS, Javascript (Cannot use any framework/libraries) to build a movie booking website.
+It is my coursework project which only allow to use HTML, CSS, Javascript (Cannot use any framework/libraries) to build a movie booking website.
 
 ## Introduction
 
@@ -10,7 +10,7 @@ It is my coursework for CS2204 - Fundamentals of Internet Applications Developme
 - Main content
 - Footer
 
-### Webpage 
+### Webpage Design
 - index page: <br>
 It contain the trailer video and the table contain the information about the now showing & up coming movie.
 ![image](https://user-images.githubusercontent.com/78290169/168427427-187705b4-c121-49c4-a015-24ceb8ef7bbc.png)
